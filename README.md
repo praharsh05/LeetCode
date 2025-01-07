@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/praharsh05/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/praharsh05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praharsh05/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/praharsh05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/praharsh05/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/praharsh05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/praharsh05/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praharsh05/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
