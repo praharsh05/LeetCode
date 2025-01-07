@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/praharsh05/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/praharsh05/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/praharsh05/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/praharsh05/LeetCode/tree/master/0724-find-pivot-index) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praharsh05/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/praharsh05/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/praharsh05/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praharsh05/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -36,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/praharsh05/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/praharsh05/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/praharsh05/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/praharsh05/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -54,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
