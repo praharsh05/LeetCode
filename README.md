@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praharsh05/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/praharsh05/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/praharsh05/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/praharsh05/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praharsh05/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/praharsh05/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/praharsh05/LeetCode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/praharsh05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
