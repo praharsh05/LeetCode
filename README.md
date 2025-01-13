@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/praharsh05/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/praharsh05/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/praharsh05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praharsh05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/praharsh05/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/praharsh05/LeetCode/tree/master/0242-valid-anagram) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/praharsh05/LeetCode/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/praharsh05/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
