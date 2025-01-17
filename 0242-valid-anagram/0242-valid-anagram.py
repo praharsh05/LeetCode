@@ -4,19 +4,17 @@ class Solution:
         if len(s) != len(t):
             return False
         #count the occurances of char in s and add that to a dict
-        dicts = {}
+        dict_s = {}
         for c in s:
-            if dicts.get(c) is not None:
-                dicts[c] = dicts[c]+1
-            else: 
-                dicts[c] = 1
-        dictt = {}
+            dict_s[c] = 1+ dict_s.get(c, 0)
+        
+        #count the occurances of char in t and add that to a dict
+        dict_t = {}
         for c in t:
-            if dictt.get(c) is not None:
-                dictt[c] = dictt[c]+1
-            else:
-                dictt[c] = 1
-        if dicts == dictt: 
+            dict_t[c] = 1+ dict_t.get(c, 0)
+
+        # If both the dict matches then return true
+        if dict_s == dict_t: 
             return True
-        else:
-            return False 
+        
+        return False 
