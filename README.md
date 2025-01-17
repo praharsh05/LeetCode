@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/praharsh05/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/praharsh05/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/praharsh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/praharsh05/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/praharsh05/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/praharsh05/LeetCode/tree/master/0289-game-of-life) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/praharsh05/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/praharsh05/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/praharsh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/praharsh05/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/praharsh05/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -236,4 +238,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/praharsh05/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/praharsh05/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/praharsh05/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/praharsh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
