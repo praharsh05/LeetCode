@@ -9,13 +9,13 @@ class Solution:
 
         # Iterate over the whole matrix
         for _ in range(len(matrix) * len(matrix[0])):
-            # Add the visiting node to the result and change the node to -101 which is outside the constraints
+            # Add the visiting node to the result and change the node to v which is outside the constraints
             res.append(matrix[y][x])
-            matrix[y][x] = -101
-            # Check if we reach the end of a row or column or or the node is -101
+            matrix[y][x] = "v"
+            # Check if we reach the end of a row or column or or the node is visited
             if not 0 <= x + dir_x < len(matrix[0]) \
                 or not 0 <= y + dir_y < len(matrix) \
-                or matrix[y+dir_y][x+dir_x] == -101:
+                or matrix[y+dir_y][x+dir_x] == "v":
                 # change the jump vairables to follow the spiral
                 dir_x, dir_y = -dir_y, dir_x
             
