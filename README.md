@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/praharsh05/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/praharsh05/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/praharsh05/LeetCode/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/praharsh05/LeetCode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praharsh05/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0724-find-pivot-index](https://github.com/praharsh05/LeetCode/tree/master/0724-find-pivot-index) |
@@ -148,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/praharsh05/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/praharsh05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/praharsh05/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/praharsh05/LeetCode/tree/master/0289-game-of-life) |
 | [1791-richest-customer-wealth](https://github.com/praharsh05/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/praharsh05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/praharsh05/LeetCode/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/praharsh05/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/praharsh05/LeetCode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
