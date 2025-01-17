@@ -1,24 +1,19 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        letter_freq_ran, letter_freq_mag = {}, {}
-        for letter in ransomNote:
-            if letter in letter_freq_ran:
-                letter_freq_ran[letter] += 1
-            else:
-                letter_freq_ran[letter] = 1
-        print(letter_freq_ran) 
+        # Hash table for magazine
+        maga_hash = {}
 
-        for letter in magazine:
-            if letter in letter_freq_mag:
-                letter_freq_mag[letter] += 1
-            else:
-                letter_freq_mag[letter] = 1
-        print(letter_freq_mag)
+        # Iterate over magazine and save the count of each char to the hash table
+        for c in magazine:
+            maga_hash[c] = 1 + maga_hash.get(c, 0)
 
-        for letter in letter_freq_ran:
-            if letter not in letter_freq_mag: return False
-            if letter_freq_ran[letter] > letter_freq_mag[letter]:
+        # Iterate over each char in ransomNote
+        for c in ransomNote:
+            # if the char in ransomNote is absent in hash table or the count of the char
+            # becomes 0 return false else subtract 1 from the visted char in hash table
+            if c not in maga_hash or maga_hash[c] <= 0:
                 return False
+            maga_hash[c] -= 1
         
         return True
         
