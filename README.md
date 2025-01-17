@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/praharsh05/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/praharsh05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/praharsh05/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/praharsh05/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/praharsh05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/praharsh05/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/praharsh05/LeetCode/tree/master/0066-plus-one) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/praharsh05/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/praharsh05/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/praharsh05/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/praharsh05/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/praharsh05/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praharsh05/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/praharsh05/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/praharsh05/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/praharsh05/LeetCode/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/praharsh05/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
