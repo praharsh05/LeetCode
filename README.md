@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/praharsh05/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/praharsh05/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/praharsh05/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praharsh05/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/praharsh05/LeetCode/tree/master/0383-ransom-note) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/praharsh05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/praharsh05/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/praharsh05/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/praharsh05/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/praharsh05/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/praharsh05/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/praharsh05/LeetCode/tree/master/0412-fizz-buzz) |
