@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/praharsh05/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/praharsh05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/praharsh05/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/praharsh05/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/praharsh05/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/praharsh05/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/praharsh05/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/praharsh05/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/praharsh05/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/praharsh05/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/praharsh05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/praharsh05/LeetCode/tree/master/0242-valid-anagram) |
