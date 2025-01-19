@@ -1,17 +1,22 @@
 class Solution:
     def findMinArrowShots(self, points: List[List[int]]) -> int:
-        points.sort()
-        print(points)
+        # Sort the points list
+        points.sort(key = lambda x: x[0])
 
-        x = points[0]
-        res = []
+        # Variable to store the prev balloon
+        prev = points[0]
+        # Varibale to keep track of overlapping balloons
+        overlap = []
 
+        # Iterate over points from the second balloon
         for point in points[1:]:
-            if x[1] >= point[0]:
-                x[1] = min(x[1], point[1])
+            # Check of the end of prev is after the start of the current balloon
+            if prev[1] >= point[0]:
+                # Set the end to be the min of ends
+                prev[1] = min(prev[1], point[1])
             else:
-                res.append(x)
-                x = point
-        res.append(x)
+                overlap.append(prev)
+                prev = point
+        overlap.append(prev)
 
-        return len(res)
+        return len(overlap)
