@@ -6,7 +6,8 @@ class Solution:
         # Variable to store the prev balloon
         prev = points[0]
         # Varibale to keep track of overlapping balloons
-        overlap = []
+        # overlap = []
+        arrow = 1
 
         # Iterate over points from the second balloon
         for point in points[1:]:
@@ -15,8 +16,11 @@ class Solution:
                 # Set the end to be the min of ends
                 prev[1] = min(prev[1], point[1])
             else:
-                overlap.append(prev)
+                # overlap.append(prev)
+                arrow += 1
                 prev = point
-        overlap.append(prev)
+        # overlap.append(prev)
+        # arrow += 1
 
-        return len(overlap)
+        # return len(overlap)
+        return arrow
