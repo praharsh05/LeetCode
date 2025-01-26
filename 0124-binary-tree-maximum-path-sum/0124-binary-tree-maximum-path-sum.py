@@ -6,12 +6,9 @@
 #         self.right = right
 class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
-        # Set max path to negative infinity
-        max_path = float("-inf")
 
         # Helper function to get the max gain from a node
         def get_max_gain(node):
-            nonlocal max_path
             # Base case when the node is a leaf
             if not node: return 0
 
@@ -20,10 +17,12 @@ class Solution:
 
             curr_max_path = node.val + gain_left + gain_right
 
-            max_path = max(max_path, curr_max_path)
+            self.max_path = max(self.max_path, curr_max_path)
 
             return node.val + max(gain_left, gain_right)
         
+        # Set max path to negative infinity
+        self.max_path = float("-inf")
         get_max_gain(root)
 
-        return max_path
+        return self.max_path
