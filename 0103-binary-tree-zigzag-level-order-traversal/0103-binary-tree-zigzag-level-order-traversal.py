@@ -8,9 +8,11 @@ class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root: return []
 
+        # BFS approach
         q = deque([root])
-
+        # variable for resultant list
         res = []
+        # Variable to keep track of direction
         direction = True
 
         while q:
