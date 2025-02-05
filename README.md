@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/praharsh05/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/praharsh05/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/praharsh05/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/praharsh05/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/praharsh05/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praharsh05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/praharsh05/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/praharsh05/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/praharsh05/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/praharsh05/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
