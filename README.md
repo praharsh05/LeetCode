@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/praharsh05/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/praharsh05/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/praharsh05/LeetCode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/praharsh05/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/praharsh05/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praharsh05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/praharsh05/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/praharsh05/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/praharsh05/LeetCode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/praharsh05/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/praharsh05/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/praharsh05/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/praharsh05/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/praharsh05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/praharsh05/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/praharsh05/LeetCode/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/praharsh05/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/praharsh05/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/praharsh05/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/praharsh05/LeetCode/tree/master/0189-rotate-array) |
@@ -491,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praharsh05/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/praharsh05/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
