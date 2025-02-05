@@ -3,6 +3,6 @@ class Solution:
         if len(nums) == 1: return True
 
         for i in range(1, len(nums)):
-            if nums[i] % 2 == nums[i-1] % 2: return False
+            if not ((nums[i] ^ nums[i-1]) & 1): return False
         
         return True
