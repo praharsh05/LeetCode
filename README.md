@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/praharsh05/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1364-tuple-with-same-product](https://github.com/praharsh05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praharsh05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/praharsh05/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/praharsh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Divide and Conquer
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/praharsh05/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2434-design-a-number-container-system](https://github.com/praharsh05/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/praharsh05/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/praharsh05/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/praharsh05/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2434-design-a-number-container-system](https://github.com/praharsh05/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Randomized
 |  |
 | ------- |
@@ -504,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/praharsh05/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/praharsh05/LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
