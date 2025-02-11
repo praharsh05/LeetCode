@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/praharsh05/LeetCode/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/praharsh05/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praharsh05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/praharsh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/praharsh05/LeetCode/tree/master/3447-clear-digits) |
 ## Math
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/praharsh05/LeetCode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/praharsh05/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/praharsh05/LeetCode/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/praharsh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/praharsh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/praharsh05/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/praharsh05/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/praharsh05/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/praharsh05/LeetCode/tree/master/0224-basic-calculator) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/praharsh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/praharsh05/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
