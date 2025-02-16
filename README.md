@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/praharsh05/LeetCode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/praharsh05/LeetCode/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/praharsh05/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [1205-defanging-an-ip-address](https://github.com/praharsh05/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praharsh05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/praharsh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3379-score-of-a-string](https://github.com/praharsh05/LeetCode/tree/master/3379-score-of-a-string) |
