@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praharsh05/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/praharsh05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/praharsh05/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/praharsh05/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/praharsh05/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/praharsh05/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/praharsh05/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/praharsh05/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/praharsh05/LeetCode/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/praharsh05/LeetCode/tree/master/0212-word-search-ii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/praharsh05/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/praharsh05/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Geometry
 |  |
