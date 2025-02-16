@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/praharsh05/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1364-tuple-with-same-product](https://github.com/praharsh05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/praharsh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/praharsh05/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/praharsh05/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praharsh05/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/praharsh05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
