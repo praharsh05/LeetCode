@@ -1,10 +1,3 @@
 class Solution:
     def interpret(self, command: str) -> str:
-        s = ""
-        for i in range(len(command)):
-            if command[i] == "G": s+= "G"
-            elif command[i] == "(":
-                if command[i+1] == ")": s+= "o"
-                elif command[i+1] == "a": s+= "al"
-        
-        return s
+        return command.replace("()", "o").replace("(al)", "al")
