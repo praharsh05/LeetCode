@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/praharsh05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/praharsh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praharsh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/praharsh05/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/praharsh05/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/praharsh05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/praharsh05/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
