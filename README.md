@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/praharsh05/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praharsh05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/praharsh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3194-find-words-containing-character](https://github.com/praharsh05/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/praharsh05/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/praharsh05/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/praharsh05/LeetCode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/praharsh05/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/praharsh05/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/praharsh05/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/praharsh05/LeetCode/tree/master/0224-basic-calculator) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/praharsh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/praharsh05/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/praharsh05/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/praharsh05/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/praharsh05/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/praharsh05/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Geometry
 |  |
