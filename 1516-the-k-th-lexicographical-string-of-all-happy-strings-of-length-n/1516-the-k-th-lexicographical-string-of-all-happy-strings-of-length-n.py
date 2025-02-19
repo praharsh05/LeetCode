@@ -1,17 +1,20 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
-        strings = []
-        letters = ['a', 'b', 'c']
+        s = []
 
-        def dfs(s):
+        def dfs():
+            nonlocal k
             if len(s) == n:
-                strings.append(s)
-                return
+                k -= 1
+                return ''.join(s) if k == 0 else ''
 
-            for letter in letters:
+            for letter in 'abc':
                 if not s or s[-1] != letter:
-                    dfs(s+letter)
+                    s.append(letter)
+                    if ans:= dfs(): return ans
+                    s.pop()
+            
+            return ''
         
-        dfs("")
-        strings.sort()
-        return(strings[k-1]) if k <= len(strings) else ""
+        return dfs()
+        
