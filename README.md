@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/praharsh05/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/praharsh05/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/praharsh05/LeetCode/tree/master/0399-evaluate-division) |
+| [1916-find-center-of-star-graph](https://github.com/praharsh05/LeetCode/tree/master/1916-find-center-of-star-graph) |
 ## Shortest Path
 |  |
 | ------- |
