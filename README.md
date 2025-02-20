@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/praharsh05/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/praharsh05/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/praharsh05/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/praharsh05/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/praharsh05/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2448-count-number-of-bad-pairs](https://github.com/praharsh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praharsh05/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/praharsh05/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praharsh05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/praharsh05/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/praharsh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praharsh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/praharsh05/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praharsh05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/praharsh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/praharsh05/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/praharsh05/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/praharsh05/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/praharsh05/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/praharsh05/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/praharsh05/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Geometry
