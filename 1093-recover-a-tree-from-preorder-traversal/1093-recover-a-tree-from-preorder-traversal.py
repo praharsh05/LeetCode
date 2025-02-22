@@ -6,28 +6,28 @@
 #         self.right = right
 class Solution:
     def recoverFromPreorder(self, traversal: str) -> Optional[TreeNode]:
-        self.idx = 0
-        self.level = 0
-        node = TreeNode(-1)
+        stack = []
+        i = 0
 
-        def helper(parent, level):
-            while self.idx < len(traversal) and level == self.level:
-                num = 0
-                while self.idx < len(traversal) and traversal[self.idx].isdigit():
-                    num = num * 10 + int(traversal[self.idx])
-                    self.idx += 1
-                node = TreeNode(num)
+        while i < len(traversal):
+            depth = 0
+            while i < len(traversal) and traversal[i] == '-':
+                depth += 1
+                i += 1
+            
+            num = 0
+            while i < len(traversal) and traversal[i].isdigit():
+                num = num * 10 + int(traversal[i])
+                i += 1
+            node = TreeNode(num)
 
-                if not parent.left:
-                    parent.left = node
-                else:
-                    parent.right= node
-                
-                self.level = 0
-                while self.idx < len(traversal) and traversal[self.idx] == "-":
-                    self.level += 1
-                    self.idx += 1
-                helper(node, level+1)
-        
-        helper(node, 0)
-        return node.left
+            while len(stack) > depth:
+                stack.pop()
+
+            if stack:
+                if not stack[-1].left: stack[-1].left = node
+                else: stack[-1].right = node
+
+            stack.append(node)
+
+        return stack[0] if stack else None 
