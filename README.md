@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/praharsh05/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0724-find-pivot-index](https://github.com/praharsh05/LeetCode/tree/master/0724-find-pivot-index) |
 | [0945-snakes-and-ladders](https://github.com/praharsh05/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1241-decompress-run-length-encoded-list](https://github.com/praharsh05/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1364-tuple-with-same-product](https://github.com/praharsh05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/praharsh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praharsh05/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
