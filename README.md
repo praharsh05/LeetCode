@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/praharsh05/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praharsh05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2406-decode-the-message](https://github.com/praharsh05/LeetCode/tree/master/2406-decode-the-message) |
 | [2434-design-a-number-container-system](https://github.com/praharsh05/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/praharsh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praharsh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/praharsh05/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/praharsh05/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2406-decode-the-message](https://github.com/praharsh05/LeetCode/tree/master/2406-decode-the-message) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3194-find-words-containing-character](https://github.com/praharsh05/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/praharsh05/LeetCode/tree/master/3379-score-of-a-string) |
