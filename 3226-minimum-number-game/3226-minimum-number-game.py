@@ -2,12 +2,10 @@ class Solution:
     def numberGame(self, nums: List[int]) -> List[int]:
         arr = []
         nums.sort()
-
-        while len(nums) > 0:
-            alice = nums[0]
-            del nums[0]
-            bob = nums[0]
-            del nums[0]
+        q = deque(nums)
+        while q:
+            alice = q.popleft()
+            bob = q.popleft()
             arr.append(bob)
             arr.append(alice)
         
