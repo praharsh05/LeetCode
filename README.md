@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/praharsh05/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/praharsh05/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/praharsh05/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/praharsh05/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/praharsh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praharsh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/praharsh05/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/praharsh05/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/praharsh05/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/praharsh05/LeetCode/tree/master/2406-decode-the-message) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2502-sort-the-people](https://github.com/praharsh05/LeetCode/tree/master/2502-sort-the-people) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praharsh05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/praharsh05/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
