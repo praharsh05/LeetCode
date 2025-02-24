@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/praharsh05/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/praharsh05/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2442-number-of-arithmetic-triplets](https://github.com/praharsh05/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/praharsh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praharsh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/praharsh05/LeetCode/tree/master/2502-sort-the-people) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/praharsh05/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/praharsh05/LeetCode/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/praharsh05/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2442-number-of-arithmetic-triplets](https://github.com/praharsh05/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praharsh05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/praharsh05/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/praharsh05/LeetCode/tree/master/2406-decode-the-message) |
 | [2434-design-a-number-container-system](https://github.com/praharsh05/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2442-number-of-arithmetic-triplets](https://github.com/praharsh05/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/praharsh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praharsh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/praharsh05/LeetCode/tree/master/2502-sort-the-people) |
@@ -721,4 +724,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/praharsh05/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2442-number-of-arithmetic-triplets](https://github.com/praharsh05/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
