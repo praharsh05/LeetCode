@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/praharsh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praharsh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/praharsh05/LeetCode/tree/master/2502-sort-the-people) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/praharsh05/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/praharsh05/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/praharsh05/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/praharsh05/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/praharsh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/praharsh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/praharsh05/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/praharsh05/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/praharsh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/praharsh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/praharsh05/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/praharsh05/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/praharsh05/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/praharsh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/praharsh05/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/praharsh05/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/praharsh05/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/praharsh05/LeetCode/tree/master/0399-evaluate-division) |
 | [1916-find-center-of-star-graph](https://github.com/praharsh05/LeetCode/tree/master/1916-find-center-of-star-graph) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/praharsh05/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Shortest Path
 |  |
 | ------- |
