@@ -28,7 +28,7 @@ class Solution:
             cur = parent[cur]
             t += 1
         
-        res = -float('inf')
+        res = float('-inf')
 
         def dfs(u, t, currProfit, par):
             nonlocal res
