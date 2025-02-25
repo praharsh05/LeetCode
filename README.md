@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/praharsh05/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/praharsh05/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/praharsh05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/praharsh05/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/praharsh05/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/praharsh05/LeetCode/tree/master/1651-shuffle-string) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/praharsh05/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/praharsh05/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/praharsh05/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/praharsh05/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/praharsh05/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/praharsh05/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/praharsh05/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/praharsh05/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/praharsh05/LeetCode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/praharsh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/praharsh05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/praharsh05/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/praharsh05/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/praharsh05/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Matrix
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/praharsh05/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/praharsh05/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/praharsh05/LeetCode/tree/master/0392-is-subsequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/praharsh05/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
 | ------- |
