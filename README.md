@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/praharsh05/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praharsh05/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/praharsh05/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/praharsh05/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/praharsh05/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/praharsh05/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/praharsh05/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praharsh05/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/praharsh05/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/praharsh05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/praharsh05/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/praharsh05/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/praharsh05/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/praharsh05/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
