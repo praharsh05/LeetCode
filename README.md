@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/praharsh05/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/praharsh05/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/praharsh05/LeetCode/tree/master/0392-is-subsequence) |
+| [0961-long-pressed-name](https://github.com/praharsh05/LeetCode/tree/master/0961-long-pressed-name) |
 | [2128-reverse-prefix-of-word](https://github.com/praharsh05/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/praharsh05/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praharsh05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/praharsh05/LeetCode/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/praharsh05/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0782-jewels-and-stones](https://github.com/praharsh05/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0961-long-pressed-name](https://github.com/praharsh05/LeetCode/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/praharsh05/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/praharsh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/praharsh05/LeetCode/tree/master/1160-letter-tile-possibilities) |
