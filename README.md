@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/praharsh05/LeetCode/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/praharsh05/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/praharsh05/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/praharsh05/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/praharsh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/praharsh05/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/praharsh05/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/praharsh05/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/praharsh05/LeetCode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/praharsh05/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1448-maximum-69-number](https://github.com/praharsh05/LeetCode/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/praharsh05/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/praharsh05/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
