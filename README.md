@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/praharsh05/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praharsh05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/praharsh05/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/praharsh05/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/praharsh05/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/praharsh05/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/praharsh05/LeetCode/tree/master/0067-add-binary) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/praharsh05/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/praharsh05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/praharsh05/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/praharsh05/LeetCode/tree/master/0055-jump-game) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/praharsh05/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/praharsh05/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/praharsh05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/praharsh05/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/praharsh05/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
