@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/praharsh05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/praharsh05/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/praharsh05/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/praharsh05/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/praharsh05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praharsh05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/praharsh05/LeetCode/tree/master/0189-rotate-array) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/praharsh05/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/praharsh05/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/praharsh05/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/praharsh05/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praharsh05/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/praharsh05/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/praharsh05/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/praharsh05/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/praharsh05/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/praharsh05/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/praharsh05/LeetCode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/praharsh05/LeetCode/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/praharsh05/LeetCode/tree/master/0342-power-of-four) |
 ## Linked List
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/praharsh05/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/praharsh05/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/praharsh05/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/praharsh05/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/praharsh05/LeetCode/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
