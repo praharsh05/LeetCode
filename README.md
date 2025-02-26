@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/praharsh05/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/praharsh05/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/praharsh05/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/praharsh05/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/praharsh05/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praharsh05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/praharsh05/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/praharsh05/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/praharsh05/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/praharsh05/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/praharsh05/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/praharsh05/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Counting Sort
