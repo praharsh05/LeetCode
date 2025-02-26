@@ -5,6 +5,6 @@ class Solution:
 
         for i in range(k):
             score += nums[-1]
-            nums[-1] = nums[-1] + 1
+            nums[-1] += 1
         
         return score
