@@ -1,23 +1,28 @@
 class Solution:
     def lenLongestFibSubseq(self, arr: List[int]) -> int:
         n = len(arr)
-        dp = [[0] * n for _ in range(n)]
+        dp = [[2] * n for _ in range(n)]
         max_len = 0
+        idx_dict = {}
 
-        for curr in range(2, n):
-            start = 0
-            end = curr - 1
+        for i, v in enumerate(arr):
+            idx_dict[v] = i
 
-            while start < end:
-                pair_sum = arr[start] + arr[end]
-                if pair_sum > arr[curr]:
-                    end -= 1
-                elif pair_sum < arr[curr]:
-                    start += 1
-                else:
-                    dp[end][curr] = dp[start][end] + 1
-                    max_len = max(max_len, dp[end][curr])
-                    end -= 1
-                    start += 1
+        for i in range(1, n-1):
+
+            start = arr[i]
+
+            for j in range(i+1, n):
+
+                end = arr[j]
+                diff = end - start
+
+                if diff >= start: break
+                if diff in idx_dict:
+                    curr = idx_dict[diff]
+                    
+                    dp[i][j] = dp[curr][i] + 1
+                
+                max_len = max(max_len, dp[i][j])
         
-        return 0 if max_len == 0 else max_len + 2
+        return max_len if max_len > 2 else 0
