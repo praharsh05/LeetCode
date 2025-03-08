@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/praharsh05/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/praharsh05/LeetCode/tree/master/2406-decode-the-message) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/praharsh05/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/praharsh05/LeetCode/tree/master/2502-sort-the-people) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/praharsh05/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/praharsh05/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/praharsh05/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/praharsh05/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/praharsh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/praharsh05/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3644-minimum-positive-sum-subarray](https://github.com/praharsh05/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Union Find
 |  |
