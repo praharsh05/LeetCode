@@ -10,9 +10,7 @@ class Solution:
                 if blocks[i] == 'W':
                     count_w += 1
             
-            if count_w < ops:
-                ops = count_w
-            
+            ops = min(ops, count_w)
             left +=1
             right = left + k
         
