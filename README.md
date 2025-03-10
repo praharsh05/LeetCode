@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/praharsh05/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/praharsh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/praharsh05/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praharsh05/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/praharsh05/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/praharsh05/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/praharsh05/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/praharsh05/LeetCode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/praharsh05/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praharsh05/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/praharsh05/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/praharsh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/praharsh05/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/praharsh05/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praharsh05/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/praharsh05/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Union Find
 |  |
