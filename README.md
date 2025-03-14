@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/praharsh05/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/praharsh05/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/praharsh05/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/praharsh05/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/praharsh05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/praharsh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praharsh05/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praharsh05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/praharsh05/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/praharsh05/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/praharsh05/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/praharsh05/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praharsh05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3643-zero-array-transformation-ii](https://github.com/praharsh05/LeetCode/tree/master/3643-zero-array-transformation-ii) |
