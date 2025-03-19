@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/praharsh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/praharsh05/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/praharsh05/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praharsh05/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/praharsh05/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/praharsh05/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/praharsh05/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/praharsh05/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/praharsh05/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/praharsh05/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praharsh05/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/praharsh05/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/praharsh05/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/praharsh05/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/praharsh05/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/praharsh05/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/praharsh05/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praharsh05/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
 | ------- |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/praharsh05/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/praharsh05/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/praharsh05/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praharsh05/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/praharsh05/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praharsh05/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/praharsh05/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -839,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/praharsh05/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/praharsh05/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praharsh05/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
