@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/praharsh05/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/praharsh05/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/praharsh05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/praharsh05/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/praharsh05/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/praharsh05/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/praharsh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/praharsh05/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/praharsh05/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/praharsh05/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/praharsh05/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/praharsh05/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/praharsh05/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/praharsh05/LeetCode/tree/master/0399-evaluate-division) |
 | [2793-count-the-number-of-complete-components](https://github.com/praharsh05/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/praharsh05/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Recursion
 |  |
 | ------- |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-find-center-of-star-graph](https://github.com/praharsh05/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/praharsh05/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/praharsh05/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/praharsh05/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
 |  |
 | ------- |
