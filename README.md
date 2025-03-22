@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/praharsh05/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/praharsh05/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/praharsh05/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/praharsh05/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/praharsh05/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/praharsh05/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/praharsh05/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praharsh05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/praharsh05/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/praharsh05/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/praharsh05/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/praharsh05/LeetCode/tree/master/2406-decode-the-message) |
 | [2434-design-a-number-container-system](https://github.com/praharsh05/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/praharsh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/praharsh05/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/praharsh05/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/praharsh05/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/praharsh05/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/praharsh05/LeetCode/tree/master/2406-decode-the-message) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/praharsh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/praharsh05/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/praharsh05/LeetCode/tree/master/0399-evaluate-division) |
 | [1916-find-center-of-star-graph](https://github.com/praharsh05/LeetCode/tree/master/1916-find-center-of-star-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/praharsh05/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/praharsh05/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/praharsh05/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/praharsh05/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/praharsh05/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/praharsh05/LeetCode/tree/master/0210-course-schedule-ii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/praharsh05/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
 |  |
 | ------- |
