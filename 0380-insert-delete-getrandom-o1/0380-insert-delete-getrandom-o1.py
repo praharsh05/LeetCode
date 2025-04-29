@@ -1,33 +1,36 @@
 class RandomizedSet:
 
     def __init__(self):
-        self.RadomizedSet = []
-        self.hashSet = {}
+        self.randomizedSet = []
+        self.hashset = {}
     
-    def search(self, val: int):
-        return val in self.hashSet
+    def search(self, val: int) -> bool:
+        return val in self.hashset
 
     def insert(self, val: int) -> bool:
-        if self.search(val): return False
+        if self.search(val):
+            return False
         
-        self.RadomizedSet.append(val)
-        self.hashSet[val] = len(self.RadomizedSet)-1
+        self.randomizedSet.append(val)
+        self.hashset[val] = len(self.randomizedSet) - 1
         return True
 
     def remove(self, val: int) -> bool:
-        if not self.search(val): return False
+        if not self.search(val):
+            return False
         
-        index = self.hashSet[val]
-        self.RadomizedSet[index] = self.RadomizedSet[-1]
-        self.hashSet[self.RadomizedSet[-1]] = index
-        self.RadomizedSet.pop()
-        del self.hashSet[val]
+        index = self.hashset[val]
+        self.randomizedSet[index] = self.randomizedSet[-1]
+        self.hashset[self.randomizedSet[-1]] = index
+        self.randomizedSet.pop()
+        del self.hashset[val]
         return True
 
     def getRandom(self) -> int:
         import random
-        index = random.randint(0, len(self.RadomizedSet)-1)
-        return self.RadomizedSet[index]
+        index = random.randint(0, len(self.randomizedSet) - 1)
+        return self.randomizedSet[index]
+        
 
 
 # Your RandomizedSet object will be instantiated and called as such:
