@@ -4,6 +4,7 @@ class Solution:
         right = len(height) - 1
         left_max = height[left]
         right_max = height[right]
+
         water = 0
 
         while left < right:
